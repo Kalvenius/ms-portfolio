@@ -8,26 +8,7 @@
     <groupId>com.example</groupId>
     <artifactId>portfolio-api</artifactId>
     <version>1.0.0</version>
-    <packaging>jar</packaging>
-
-
-
-
-
-
-
-
-         
-
-
-
-
-
-         
-
-
-
-         
+    <packaging>jar</packaging>         
          
     <parent>
         <groupId>org.springframework.boot</groupId>
